@@ -1,9 +1,9 @@
 # Rust Docker
 
-This repository contains debian based Rust images to use for CI/CD and more.
+This repository contains Debian based Rust images to use for CI/CD and more.
 
 # Flavors
-All images are Debian based and built on top of the official ```rust:latest``` image. 
+All images are built on top of the official ```rust:latest``` image. 
 
 The images were created primarily to cover cross compilation needs on CI/CD pipelines. 
 
